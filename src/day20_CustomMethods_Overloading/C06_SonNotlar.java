@@ -10,7 +10,7 @@ public class C06_SonNotlar {
     //2- easy to read
     //3-resuable
     //4- flexible
-
+//github
 
 
 }
